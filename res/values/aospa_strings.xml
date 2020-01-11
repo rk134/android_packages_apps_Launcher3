@@ -93,4 +93,7 @@
     <!-- Font size -->
     <string name="font_size_title">Font size</string>
 
+    <!-- Preference default value -->
+    <string name="pref_value_default" translatable="false">Default</string>
+
 </resources>
